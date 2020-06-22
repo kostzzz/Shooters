@@ -1,0 +1,42 @@
+style.css
+.title {
+text-align: middle;
+text-transform: uppercase; 
+}
+.card {
+width: 24%;
+margin-bottom: 50px;
+box-shadow: 6px 6px 5px rgba(105, 105, 105, 1); 
+border-color: DimGrey;
+text-align: center;
+display: inline-block;
+vertical-align: top;
+background-color: LightGrey;
+margin-right: 10px;
+}
+
+.card-title {
+text-align: center;
+}
+.card-image {
+width: 80%;
+height: 60%;
+}
+.card-text {
+text-align: center;
+color:
+}
+.p {
+text-align: right;
+margin-right: 15px;
+color: Black;
+}
+.footer {
+  height: 350px;
+  background-color: black
+}
+.footer-text {
+	color: white;
+	padding-left: 20px;
+	padding-top: 20px;
+}
